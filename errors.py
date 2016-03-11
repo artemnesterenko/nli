@@ -1,0 +1,2 @@
+class PluginExistsError(Exception):
+    pass
